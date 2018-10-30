@@ -1,0 +1,6 @@
+{
+  "host": "smtp.gmail.com",
+  "email_from": "example_from@gmail.com",
+  "password": "password12345",
+  "email_to": "example_to@gmail.com"
+}
